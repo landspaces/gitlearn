@@ -1,1 +1,3 @@
 111win ssh
+global satellite
+local wintogitee
