@@ -2,3 +2,4 @@
 win ssh
 
 second Mac
+的方法
