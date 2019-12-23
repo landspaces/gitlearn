@@ -6,3 +6,4 @@ second Mac
 
 sourcetree测试
 Shanchu  账户在侧
+删除ssh公钥在侧
