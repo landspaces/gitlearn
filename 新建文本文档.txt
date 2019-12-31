@@ -1,0 +1,10 @@
+什么玩意啊
+win ssh
+
+second Mac
+的方法
+
+sourcetree测试
+Shanchu  账户在侧
+删除ssh公钥在侧
+删除全局用户邮箱
